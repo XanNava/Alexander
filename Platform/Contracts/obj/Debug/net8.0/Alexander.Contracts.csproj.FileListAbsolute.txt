@@ -1,0 +1,11 @@
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\bin\Debug\net8.0\Alexander.Contracts.deps.json
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\bin\Debug\net8.0\Alexander.Contracts.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\bin\Debug\net8.0\Alexander.Contracts.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\obj\Debug\net8.0\Alexander.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\obj\Debug\net8.0\Alexander.Contracts.AssemblyInfoInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\obj\Debug\net8.0\Alexander.Contracts.AssemblyInfo.cs
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\obj\Debug\net8.0\Alexander.Contracts.csproj.CoreCompileInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\obj\Debug\net8.0\Alexander.Contracts.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\obj\Debug\net8.0\refint\Alexander.Contracts.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\obj\Debug\net8.0\Alexander.Contracts.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Contracts\obj\Debug\net8.0\ref\Alexander.Contracts.dll

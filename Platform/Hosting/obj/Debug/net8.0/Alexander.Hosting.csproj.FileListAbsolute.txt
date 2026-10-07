@@ -1,0 +1,15 @@
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\bin\Debug\net8.0\Alexander.Hosting.deps.json
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\bin\Debug\net8.0\Alexander.Hosting.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\bin\Debug\net8.0\Alexander.Hosting.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\bin\Debug\net8.0\Alexander.Graphics.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\bin\Debug\net8.0\Alexander.Graphics.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\Alexander.Hosting.csproj.AssemblyReference.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\Alexander.Hosting.GeneratedMSBuildEditorConfig.editorconfig
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\Alexander.Hosting.AssemblyInfoInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\Alexander.Hosting.AssemblyInfo.cs
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\Alexander.Hosting.csproj.CoreCompileInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\Alexande.9A415EAC.Up2Date
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\Alexander.Hosting.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\refint\Alexander.Hosting.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\Alexander.Hosting.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Hosting\obj\Debug\net8.0\ref\Alexander.Hosting.dll

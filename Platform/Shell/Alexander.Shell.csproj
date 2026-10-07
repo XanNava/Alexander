@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<AssemblyName>Alexander</AssemblyName>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>Alexander.Platform.Shell</RootNamespace>
+		<InvariantGlobalization>true</InvariantGlobalization>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Contracts\Alexander.IDT.csproj" />
+	</ItemGroup>
+
+	<!-- Deliberately NO reference to Core: that's what lets Core be
+	     rebuilt and reloaded without restarting Shell. Core is loaded at
+	     runtime via reflection (see CoreHost.cs). Only Contracts, which
+	     both sides share, is referenced directly. -->
+
+</Project>

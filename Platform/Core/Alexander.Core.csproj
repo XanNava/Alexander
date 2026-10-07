@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>Alexander.Platform.Core</RootNamespace>
+
+		<!-- Loaded into a collectible AssemblyLoadContext from a byte
+		     stream, not a locked file path - see Platform/Shell/PluginLoadContext.cs
+		     and Platform/Shell/CoreHost.cs. CopyLocalLockFileAssemblies makes
+		     sure every dependency (including transitive ones from Shared
+		     and Capabilities) lands beside Alexander.Platform.Core.dll in
+		     its own bin folder, since the plugin context resolves
+		     siblings from there, not from Shell's output folder. -->
+		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\Services\Alexander.Service.csproj" />
+		<ProjectReference Include="..\Contracts\Alexander.IDT.csproj" />
+		<ProjectReference Include="..\Shared\Alexander.Shared.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+	</ItemGroup>
+
+</Project>

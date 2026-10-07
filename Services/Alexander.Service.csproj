@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>Alexander.Capabilities</RootNamespace>
+	</PropertyGroup>
+
+	<!-- Holds two Category-level namespaces under Capabilities:
+	     Automation/ (Alexander.Capabilities.Automation - the repeat/watch
+	     folder-worker services) and AI/ (Alexander.Capabilities.AI - the
+	     directly-callable AI client). One assembly, same as the original
+	     Services project held both bare Alexander.Services and
+	     Alexander.Services.AI before this rename. -->
+	<ItemGroup>
+		<ProjectReference Include="..\Platform\Shared\Alexander.Shared.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+	</ItemGroup>
+
+</Project>

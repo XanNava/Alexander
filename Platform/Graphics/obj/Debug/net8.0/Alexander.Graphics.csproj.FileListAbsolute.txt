@@ -1,0 +1,11 @@
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\bin\Debug\net8.0\Alexander.Graphics.deps.json
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\bin\Debug\net8.0\Alexander.Graphics.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\bin\Debug\net8.0\Alexander.Graphics.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\obj\Debug\net8.0\Alexander.Graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\obj\Debug\net8.0\Alexander.Graphics.AssemblyInfoInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\obj\Debug\net8.0\Alexander.Graphics.AssemblyInfo.cs
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\obj\Debug\net8.0\Alexander.Graphics.csproj.CoreCompileInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\obj\Debug\net8.0\Alexander.Graphics.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\obj\Debug\net8.0\refint\Alexander.Graphics.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\obj\Debug\net8.0\Alexander.Graphics.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Graphics\obj\Debug\net8.0\ref\Alexander.Graphics.dll

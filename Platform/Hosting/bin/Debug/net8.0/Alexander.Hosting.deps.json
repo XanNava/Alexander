@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Alexander.Hosting/1.0.0": {
+        "dependencies": {
+          "Alexander.Graphics": "1.0.0"
+        },
+        "runtime": {
+          "Alexander.Hosting.dll": {}
+        }
+      },
+      "Alexander.Graphics/1.0.0": {
+        "runtime": {
+          "Alexander.Graphics.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alexander.Hosting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alexander.Graphics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    The shared graphics library. Deliberately UI-framework-neutral: services
+    draw against IGraphics without referencing WPF, and the GUI supplies the
+    WPF implementation. Referenced by Alexander.Service, Alexander.Core and
+    Alexander.Gui.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Alexander.Graphics</RootNamespace>
+  </PropertyGroup>
+
+</Project>

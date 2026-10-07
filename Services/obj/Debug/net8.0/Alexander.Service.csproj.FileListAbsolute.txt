@@ -1,0 +1,15 @@
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\bin\Debug\net8.0\Alexander.Service.deps.json
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\bin\Debug\net8.0\Alexander.Service.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\bin\Debug\net8.0\Alexander.Service.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\bin\Debug\net8.0\Alexander.Shared.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\bin\Debug\net8.0\Alexander.Shared.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\Alexander.Service.csproj.AssemblyReference.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\Alexander.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\Alexander.Service.AssemblyInfoInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\Alexander.Service.AssemblyInfo.cs
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\Alexander.Service.csproj.CoreCompileInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\Alexande.43A79FB0.Up2Date
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\Alexander.Service.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\refint\Alexander.Service.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\Alexander.Service.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Services\obj\Debug\net8.0\ref\Alexander.Service.dll

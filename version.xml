@@ -1,0 +1,4 @@
+<Version>
+	<Number>0.1.0</Number>
+	<Notes>First release of Alexander as a folder worker: file/folder commands (/ls, /cd, /make, /run, /exec), folder-scoped background services (/service create --type=repeat|watch), and a directly-callable AI (/ai ask).</Notes>
+</Version>

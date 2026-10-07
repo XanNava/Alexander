@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    The GUI <-> Shell protocol: newline-delimited JSON over the Shell's
+    stdin/stdout when it runs with "host" (see HostProtocol). Referenced
+    by Alexander.Shell and Alexander.Gui - and nothing else; Core never
+    sees it.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Alexander.Hosting</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Graphics\Alexander.Graphics.csproj" />
+  </ItemGroup>
+
+</Project>

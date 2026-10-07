@@ -1,0 +1,766 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06728EFE-1FE3-C55E-455A-221F7182A933}|Platform\\Hosting\\Alexander.Hosting.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\hosting\\hosting.hostprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06728EFE-1FE3-C55E-455A-221F7182A933}|Platform\\Hosting\\Alexander.Hosting.csproj|solutionrelative:platform\\hosting\\hosting.hostprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC88FCB7-4032-D7CA-FE5F-BC5D37D34AF2}|Platform\\Graphics\\Alexander.Graphics.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\graphics\\alexander.graphics.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC88FCB7-4032-D7CA-FE5F-BC5D37D34AF2}|Platform\\Graphics\\Alexander.Graphics.csproj|solutionrelative:platform\\graphics\\alexander.graphics.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shell\\shell.corehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|solutionrelative:platform\\shell\\shell.corehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\contracts\\idt.isessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|solutionrelative:platform\\contracts\\idt.isessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\contracts\\idt.icurrentfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|solutionrelative:platform\\contracts\\idt.icurrentfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\contracts\\idt.icoreinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|solutionrelative:platform\\contracts\\idt.icoreinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\contracts\\idt.icorelifecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|solutionrelative:platform\\contracts\\idt.icorelifecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\contracts\\idt.ioutputsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|solutionrelative:platform\\contracts\\idt.ioutputsink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\contracts\\idt.dtresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|solutionrelative:platform\\contracts\\idt.dtresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\contracts\\idt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|solutionrelative:platform\\contracts\\idt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\contracts\\idt.commanddefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3873BBA3-A865-CF5D-9264-CBF6287EF422}|Platform\\Contracts\\Alexander.IDT.csproj|solutionrelative:platform\\contracts\\idt.commanddefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\commands\\core.corecommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\commands\\core.corecommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shell\\shell.program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|solutionrelative:platform\\shell\\shell.program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shell\\shell.pluginloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|solutionrelative:platform\\shell\\shell.pluginloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shell\\shell.consolecompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|solutionrelative:platform\\shell\\shell.consolecompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\commands\\core.commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\commands\\core.commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\commands\\core.filecommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\commands\\core.filecommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\commands\\core.icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\commands\\core.icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\commands\\core.lifecyclecommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\commands\\core.lifecyclecommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\core.commandcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\core.commandcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\core.commandlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\core.commandlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\core.commandtrie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\core.commandtrie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\core.coreentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\core.coreentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\core.currentfolderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\core.currentfolderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\core.servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\core.servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\core\\core.versionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|Platform\\Core\\Alexander.Core.csproj|solutionrelative:platform\\core\\core.versionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shared\\shared.shellcommandrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|solutionrelative:platform\\shared\\shared.shellcommandrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shared\\shared.jsonfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|solutionrelative:platform\\shared\\shared.jsonfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shared\\shared.ioutputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|solutionrelative:platform\\shared\\shared.ioutputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shared\\shared.appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|solutionrelative:platform\\shared\\shared.appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shared\\shared.apppaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|solutionrelative:platform\\shared\\shared.apppaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shared\\shared.applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|Platform\\Shared\\Alexander.Shared.csproj|solutionrelative:platform\\shared\\shared.applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\services\\ai\\ai.aiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|solutionrelative:services\\ai\\ai.aiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\services\\ai\\ai.chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|solutionrelative:services\\ai\\ai.chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\services\\automation\\automation.serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|solutionrelative:services\\automation\\automation.serviceregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\services\\automation\\automation.repeatingcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|solutionrelative:services\\automation\\automation.repeatingcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\services\\automation\\automation.ifolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|solutionrelative:services\\automation\\automation.ifolderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\services\\automation\\automation.filewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC4AE9-50D6-CE17-8EA1-2049473EB82F}|Services\\Alexander.Service.csproj|solutionrelative:services\\automation\\automation.filewatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|c:\\(work)\\(sys0)\\alexander\\alexander.prototype\\alexander\\platform\\shell\\alexander.shell.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|Platform\\Shell\\Alexander.Shell.csproj|solutionrelative:platform\\shell\\alexander.shell.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.ServiceCommandHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Platform\\Core\\Commands\\Core.ServiceCommandHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.AiCommandHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Platform\\Core\\Commands\\Core.AiCommandHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.IDT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Platform\\Contracts\\Contracts.IDT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.ICoreLifecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Platform\\Contracts\\Contracts.ICoreLifecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.ICoreInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Platform\\Contracts\\Contracts.ICoreInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.DtResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Platform\\Contracts\\Contracts.DtResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shell.CoreHost.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Shell.CoreHost.cs",
+              "RelativeDocumentMoniker": "Platform\\Shell\\Shell.CoreHost.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Shell.CoreHost.cs",
+              "RelativeToolTip": "Platform\\Shell\\Shell.CoreHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:20:37.952Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hosting.HostProtocol.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Hosting\\Hosting.HostProtocol.cs",
+              "RelativeDocumentMoniker": "Platform\\Hosting\\Hosting.HostProtocol.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Hosting\\Hosting.HostProtocol.cs",
+              "RelativeToolTip": "Platform\\Hosting\\Hosting.HostProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:10.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALYbAAAAAAAAAAAYwLcbAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-03T01:57:17.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Alexander.Shell",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Alexander.Shell.csproj",
+              "RelativeDocumentMoniker": "Platform\\Shell\\Alexander.Shell.csproj",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Alexander.Shell.csproj",
+              "RelativeToolTip": "Platform\\Shell\\Alexander.Shell.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-03T02:17:00.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Core.CoreEntryPoint.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CoreEntryPoint.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Core.CoreEntryPoint.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CoreEntryPoint.cs",
+              "RelativeToolTip": "Platform\\Core\\Core.CoreEntryPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:18:21.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Core.CurrentFolderState.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CurrentFolderState.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Core.CurrentFolderState.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CurrentFolderState.cs",
+              "RelativeToolTip": "Platform\\Core\\Core.CurrentFolderState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:19:27.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Core.ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Core.ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Platform\\Core\\Core.ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:19:31.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Automation.RepeatingCommandService.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\Automation\\Automation.RepeatingCommandService.cs",
+              "RelativeDocumentMoniker": "Services\\Automation\\Automation.RepeatingCommandService.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\Automation\\Automation.RepeatingCommandService.cs",
+              "RelativeToolTip": "Services\\Automation\\Automation.RepeatingCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:19:58.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Automation.ServiceRegistry.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\Automation\\Automation.ServiceRegistry.cs",
+              "RelativeDocumentMoniker": "Services\\Automation\\Automation.ServiceRegistry.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\Automation\\Automation.ServiceRegistry.cs",
+              "RelativeToolTip": "Services\\Automation\\Automation.ServiceRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:20:22.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shell.PluginLoadContext.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Shell.PluginLoadContext.cs",
+              "RelativeDocumentMoniker": "Platform\\Shell\\Shell.PluginLoadContext.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Shell.PluginLoadContext.cs",
+              "RelativeToolTip": "Platform\\Shell\\Shell.PluginLoadContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:21:41.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shell.Program.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Shell.Program.cs",
+              "RelativeDocumentMoniker": "Platform\\Shell\\Shell.Program.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Shell.Program.cs",
+              "RelativeToolTip": "Platform\\Shell\\Shell.Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:21:46.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Shell.ConsoleCompletion.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Shell.ConsoleCompletion.cs",
+              "RelativeDocumentMoniker": "Platform\\Shell\\Shell.ConsoleCompletion.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shell\\Shell.ConsoleCompletion.cs",
+              "RelativeToolTip": "Platform\\Shell\\Shell.ConsoleCompletion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:22:49.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Automation.FileWatcherService.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\Automation\\Automation.FileWatcherService.cs",
+              "RelativeDocumentMoniker": "Services\\Automation\\Automation.FileWatcherService.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\Automation\\Automation.FileWatcherService.cs",
+              "RelativeToolTip": "Services\\Automation\\Automation.FileWatcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:22:54.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Automation.IFolderService.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\Automation\\Automation.IFolderService.cs",
+              "RelativeDocumentMoniker": "Services\\Automation\\Automation.IFolderService.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\Automation\\Automation.IFolderService.cs",
+              "RelativeToolTip": "Services\\Automation\\Automation.IFolderService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:23:10.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AI.ChatMessage.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\AI\\AI.ChatMessage.cs",
+              "RelativeDocumentMoniker": "Services\\AI\\AI.ChatMessage.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\AI\\AI.ChatMessage.cs",
+              "RelativeToolTip": "Services\\AI\\AI.ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:23:29.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AI.AiClient.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\AI\\AI.AiClient.cs",
+              "RelativeDocumentMoniker": "Services\\AI\\AI.AiClient.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Services\\AI\\AI.AiClient.cs",
+              "RelativeToolTip": "Services\\AI\\AI.AiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:23:33.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Shared.AppLog.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.AppLog.cs",
+              "RelativeDocumentMoniker": "Platform\\Shared\\Shared.AppLog.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.AppLog.cs",
+              "RelativeToolTip": "Platform\\Shared\\Shared.AppLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:23:39.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Shared.AppPaths.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.AppPaths.cs",
+              "RelativeDocumentMoniker": "Platform\\Shared\\Shared.AppPaths.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.AppPaths.cs",
+              "RelativeToolTip": "Platform\\Shared\\Shared.AppPaths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:23:47.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Shared.AppState.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.AppState.cs",
+              "RelativeDocumentMoniker": "Platform\\Shared\\Shared.AppState.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.AppState.cs",
+              "RelativeToolTip": "Platform\\Shared\\Shared.AppState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:23:51.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Shared.IOutputWriter.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.IOutputWriter.cs",
+              "RelativeDocumentMoniker": "Platform\\Shared\\Shared.IOutputWriter.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.IOutputWriter.cs",
+              "RelativeToolTip": "Platform\\Shared\\Shared.IOutputWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:23:56.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Shared.JsonFiles.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.JsonFiles.cs",
+              "RelativeDocumentMoniker": "Platform\\Shared\\Shared.JsonFiles.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.JsonFiles.cs",
+              "RelativeToolTip": "Platform\\Shared\\Shared.JsonFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:24:00.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Shared.ShellCommandRunner.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.ShellCommandRunner.cs",
+              "RelativeDocumentMoniker": "Platform\\Shared\\Shared.ShellCommandRunner.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Shared\\Shared.ShellCommandRunner.cs",
+              "RelativeToolTip": "Platform\\Shared\\Shared.ShellCommandRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:24:04.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Core.VersionStore.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.VersionStore.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Core.VersionStore.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.VersionStore.cs",
+              "RelativeToolTip": "Platform\\Core\\Core.VersionStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:24:19.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Core.CommandTrie.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CommandTrie.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Core.CommandTrie.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CommandTrie.cs",
+              "RelativeToolTip": "Platform\\Core\\Core.CommandTrie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:25:04.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Core.CommandLayer.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CommandLayer.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Core.CommandLayer.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CommandLayer.cs",
+              "RelativeToolTip": "Platform\\Core\\Core.CommandLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:25:08.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Core.CommandCatalog.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CommandCatalog.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Core.CommandCatalog.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Core.CommandCatalog.cs",
+              "RelativeToolTip": "Platform\\Core\\Core.CommandCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:25:26.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Core.ServiceCommandHandlers.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.ServiceCommandHandlers.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Commands\\Core.ServiceCommandHandlers.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.ServiceCommandHandlers.cs",
+              "RelativeToolTip": "Platform\\Core\\Commands\\Core.ServiceCommandHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:25:32.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Core.LifecycleCommandHandlers.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.LifecycleCommandHandlers.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Commands\\Core.LifecycleCommandHandlers.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.LifecycleCommandHandlers.cs",
+              "RelativeToolTip": "Platform\\Core\\Commands\\Core.LifecycleCommandHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:25:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Core.ICommandHandler.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Commands\\Core.ICommandHandler.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.ICommandHandler.cs",
+              "RelativeToolTip": "Platform\\Core\\Commands\\Core.ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:25:48.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Core.FileCommandHandlers.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.FileCommandHandlers.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Commands\\Core.FileCommandHandlers.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.FileCommandHandlers.cs",
+              "RelativeToolTip": "Platform\\Core\\Commands\\Core.FileCommandHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:25:54.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Core.CoreCommandHandlers.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.CoreCommandHandlers.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Commands\\Core.CoreCommandHandlers.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.CoreCommandHandlers.cs",
+              "RelativeToolTip": "Platform\\Core\\Commands\\Core.CoreCommandHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:26:03.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Core.CommandDispatcher.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.CommandDispatcher.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Commands\\Core.CommandDispatcher.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.CommandDispatcher.cs",
+              "RelativeToolTip": "Platform\\Core\\Commands\\Core.CommandDispatcher.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:26:12.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Core.AiCommandHandlers.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.AiCommandHandlers.cs",
+              "RelativeDocumentMoniker": "Platform\\Core\\Commands\\Core.AiCommandHandlers.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Core\\Commands\\Core.AiCommandHandlers.cs",
+              "RelativeToolTip": "Platform\\Core\\Commands\\Core.AiCommandHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:26:18.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Contracts.IDT.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.IDT.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\Contracts.IDT.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.IDT.cs",
+              "RelativeToolTip": "Platform\\Contracts\\Contracts.IDT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:26:31.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Contracts.ICoreLifecycle.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.ICoreLifecycle.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\Contracts.ICoreLifecycle.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.ICoreLifecycle.cs",
+              "RelativeToolTip": "Platform\\Contracts\\Contracts.ICoreLifecycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:26:38.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Contracts.ICoreInteraction.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.ICoreInteraction.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\Contracts.ICoreInteraction.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.ICoreInteraction.cs",
+              "RelativeToolTip": "Platform\\Contracts\\Contracts.ICoreInteraction.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:26:42.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Contracts.DtResult.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.DtResult.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\Contracts.DtResult.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\Contracts.DtResult.cs",
+              "RelativeToolTip": "Platform\\Contracts\\Contracts.DtResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T02:26:45.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDT.CommandDefinition.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.CommandDefinition.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\IDT.CommandDefinition.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.CommandDefinition.cs",
+              "RelativeToolTip": "Platform\\Contracts\\IDT.CommandDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:31.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDT.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\IDT.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.cs",
+              "RelativeToolTip": "Platform\\Contracts\\IDT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDT.DtResult.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.DtResult.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\IDT.DtResult.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.DtResult.cs",
+              "RelativeToolTip": "Platform\\Contracts\\IDT.DtResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDT.ICoreInteraction.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.ICoreInteraction.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\IDT.ICoreInteraction.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.ICoreInteraction.cs",
+              "RelativeToolTip": "Platform\\Contracts\\IDT.ICoreInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:38.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDT.ICurrentFolder.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.ICurrentFolder.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\IDT.ICurrentFolder.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.ICurrentFolder.cs",
+              "RelativeToolTip": "Platform\\Contracts\\IDT.ICurrentFolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:39.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDT.IOutputSink.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.IOutputSink.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\IDT.IOutputSink.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.IOutputSink.cs",
+              "RelativeToolTip": "Platform\\Contracts\\IDT.IOutputSink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:40.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDT.ICoreLifecycle.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.ICoreLifecycle.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\IDT.ICoreLifecycle.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.ICoreLifecycle.cs",
+              "RelativeToolTip": "Platform\\Contracts\\IDT.ICoreLifecycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:42.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDT.ISessionInfo.cs",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.ISessionInfo.cs",
+              "RelativeDocumentMoniker": "Platform\\Contracts\\IDT.ISessionInfo.cs",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Contracts\\IDT.ISessionInfo.cs",
+              "RelativeToolTip": "Platform\\Contracts\\IDT.ISessionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:08:51.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alexander.Graphics",
+              "DocumentMoniker": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Graphics\\Alexander.Graphics.csproj",
+              "RelativeDocumentMoniker": "Platform\\Graphics\\Alexander.Graphics.csproj",
+              "ToolTip": "C:\\(Work)\\(Sys0)\\Alexander\\Alexander.Prototype\\Alexander\\Platform\\Graphics\\Alexander.Graphics.csproj",
+              "RelativeToolTip": "Platform\\Graphics\\Alexander.Graphics.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T21:15:05.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

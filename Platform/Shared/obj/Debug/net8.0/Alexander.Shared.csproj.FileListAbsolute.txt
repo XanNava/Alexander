@@ -1,0 +1,11 @@
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\bin\Debug\net8.0\Alexander.Shared.deps.json
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\bin\Debug\net8.0\Alexander.Shared.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\bin\Debug\net8.0\Alexander.Shared.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\obj\Debug\net8.0\Alexander.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\obj\Debug\net8.0\Alexander.Shared.AssemblyInfoInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\obj\Debug\net8.0\Alexander.Shared.AssemblyInfo.cs
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\obj\Debug\net8.0\Alexander.Shared.csproj.CoreCompileInputs.cache
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\obj\Debug\net8.0\Alexander.Shared.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\obj\Debug\net8.0\refint\Alexander.Shared.dll
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\obj\Debug\net8.0\Alexander.Shared.pdb
+C:\(Work)\(Sys0)\Alexander\Alexander.Prototype\Alexander\Platform\Shared\obj\Debug\net8.0\ref\Alexander.Shared.dll
